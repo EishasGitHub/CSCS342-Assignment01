@@ -1,0 +1,101 @@
+nav{
+    background-color: gold;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 60px;
+    box-shadow: 0 5px 10px rgb(0, 0, 0);
+}
+
+.logo{
+    color: black;
+    font-weight: bolder;
+    margin-left: 10px;
+    font-size: large;
+}
+
+.logo:hover{
+    color: goldenrod;
+}
+
+
+nav a{
+    background-color: black;
+    color: gold;
+    border-radius: 20px;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-decoration: none;
+    box-shadow: 0 5px 10px rgb(0, 0, 0);
+    
+}
+
+nav a:hover{
+    background-color: gold;
+    color: black;
+}
+
+#currentbutton{
+    background-color: gold;
+    color: black;
+}
+
+#currentbutton:hover{
+    background-color: black;
+    color: gold;
+}
+
+*{
+    font-family:monospace;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: gold;
+    font-weight: bold;
+}
+
+p{
+    color: ghostwhite;
+    font-size: large;
+}
+#t1{
+    margin-top: 100px;
+}
+
+img{
+    margin-top: 180px;
+    height: auto;
+    width: 400px;
+    border: 10px solid gold;
+    margin-left: 140px;
+    border-style:double;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 10px;
+
+}
+
+#t2{
+    margin-top: 150px;
+}
+
+h5{
+    color: gold;
+}
+
+hr{
+    color: ghostwhite;
+}
+
+#name{
+    color: gold;
+    font-style: italic;
+    font-weight: bolder;
+}
